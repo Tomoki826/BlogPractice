@@ -1,2 +1,1 @@
-# tomoki826.github.io
-test webpage
+テスト用のウェブページです
